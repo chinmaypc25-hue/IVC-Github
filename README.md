@@ -8,4 +8,6 @@ Section : A
 USN : 1RUA25BCA0021
 
 # Making changes on local machine and syncing it to the repo
-Subjects: Introduction to Version Control , Data Structure
+Subjects: Introduction to Version Control , Data Structure , Python
+
+
